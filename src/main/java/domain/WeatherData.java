@@ -1,2 +1,4 @@
-package domain;public class WeatherData {
+package domain;
+
+public class WeatherData {
 }
